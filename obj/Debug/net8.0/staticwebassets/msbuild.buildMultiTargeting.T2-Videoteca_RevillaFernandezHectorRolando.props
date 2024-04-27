@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\T2-Videoteca_RevillaFernandezHectorRolando.props" />
+</Project>
